@@ -15,10 +15,8 @@
 - [Screenshots](#screenshots)
 - [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
